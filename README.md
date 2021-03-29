@@ -3,8 +3,8 @@ welcome to healthy-spine! This project is for distributed software development c
 We already have 3 members in our group--Zoey HU, Xiaolong DU and Paloma SONG(Xinyi SONG). 
 
 At present,the roles of team members are:
-ZoeyHU - Program manager
-XiaolongDU - Developer
-PalomaSONG - Requirements Analyst
+ZoeyHU - Program manager\n
+XiaolongDU - Developer\n
+PalomaSONG - Requirements Analyst\n
 
 Looking forward to your participation*⸜( •ᴗ• )⸝* 
