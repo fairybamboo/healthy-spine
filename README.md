@@ -8,9 +8,9 @@ ZoeyHU - Program manager,
 Filipe Pereira dos Santos - System Architect,  
 Pedro Xavier Magalhães - Tester,  
 AlexDU - Developer,  
-![Alex.jpg](https://github.com/fairybamboo/healthy-spine/blob/main/Member%20Introduction/Alex.jpg)
+![Alex.jpg](https://github.com/fairybamboo/healthy-spine/blob/main/Member%20Introduction/Alex.jpg)  
 Gabriel Castro - Developer,  
 PalomaSONG - Requirements Analyst  
-![Paloma.jpg](https://github.com/fairybamboo/healthy-spine/blob/main/Member%20Introduction/Paloma.jpg)
+![Paloma.jpg](https://github.com/fairybamboo/healthy-spine/blob/main/Member%20Introduction/Paloma.jpg)  
 *⸜( •ᴗ• )⸝*   
 
