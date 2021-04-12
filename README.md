@@ -1,7 +1,8 @@
 # healthy-spine
-welcome to healthy-spine! This project is for distributed software development course. Let's have fun there:-D.
+welcome to healthy-spine! This project is for distributed software development course. Let's have fun there:-D.  
+We are responsible for the development of WeChat mini program.  
 
-At present,the roles of team members are:  
+Team members are:  
 ZoeyHU - Program manager,  
 Filipe Pereira dos Santos - System Architect,  
 Pedro Xavier Magalhães - Tester,  
