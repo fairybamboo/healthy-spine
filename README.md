@@ -1,7 +1,7 @@
 # healthy-spine
 welcome to healthy-spine! This project is for distributed software development course. Let's have fun there:-D.
 
-At present,the roles of team members are:
+At present,the roles of team members are:  
 ZoeyHU - Program manager,  
 Filipe Pereira dos Santos - System Architect,  
 Pedro Xavier Magalhães - Tester,  
