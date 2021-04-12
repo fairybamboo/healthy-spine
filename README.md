@@ -4,11 +4,13 @@ We are responsible for the development of WeChat mini program.
 
 Team members are:  
 ZoeyHU - Program manager,  
+![Zoey.jpg](https://github.com/fairybamboo/healthy-spine/blob/main/Member%20Introduction/Zoey.jpg)  
 Filipe Pereira dos Santos - System Architect,  
 Pedro Xavier Magalhães - Tester,  
 AlexDU - Developer,  
+![Alex.jpg](https://github.com/fairybamboo/healthy-spine/blob/main/Member%20Introduction/Alex.jpg)
 Gabriel Castro - Developer,  
 PalomaSONG - Requirements Analyst  
-
+![Paloma.jpg](https://github.com/fairybamboo/healthy-spine/blob/main/Member%20Introduction/Paloma.jpg)
 *⸜( •ᴗ• )⸝*   
-![image](https://github.com/fairybamboo/healthy-spine/blob/main/IMG_20210321_071823.jpg)
+
