@@ -6,7 +6,7 @@ __Work Progress:__
 ![ganttchart.png](https://github.com/fairybamboo/healthy-spine/blob/main/Gantt%20Chart/ganttchart.png)  
 
 __Requirement Analysis:__  
-https://github.com/fairybamboo/healthy-spine/blob/main/news/RA_HealthySpine_4.21.docx    
+https://github.com/fairybamboo/healthy-spine/blob/main/news/week6/RA_HealthySpine_4.22.docx    
 ![usecaseDiagram.png](https://github.com/fairybamboo/healthy-spine/blob/main/news/usecaseDiagram.png)  
 __Team members are:__  
 ZhuyuHU(Zoey) - Program manager,  
