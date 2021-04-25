@@ -3,7 +3,7 @@ welcome to healthy-spine! This project is for distributed software development c
 We are responsible for the development of WeChat mini program.  
 
 __Work Progress:__  
-![ganttchart.png](https://github.com/fairybamboo/healthy-spine/blob/main/Gantt%20Chart/ganttchart.png)  
+![GanttChart%20(2).png](https://github.com/fairybamboo/healthy-spine/blob/main/Gantt%20Chart/GanttChart%20(2).png)  
 
 __Requirement Analysis:__  
 https://github.com/fairybamboo/healthy-spine/blob/main/news/week6/RA_HealthySpine_4.22.docx    
