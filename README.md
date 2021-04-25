@@ -8,6 +8,12 @@ __Work Progress:__
 __Requirement Analysis:__  
 https://github.com/fairybamboo/healthy-spine/blob/main/news/week6/RA_HealthySpine_4.22.docx    
 ![usecase.png](https://github.com/fairybamboo/healthy-spine/blob/main/news/week6/usecase.png)  
+__Flow Chart:__  
+https://github.com/fairybamboo/healthy-spine/blob/main/news/week7/SA1-9.docx  
+__News:__  
+Week7: 2021/4/25 Have a discussion with Android, Web and Server group.(Almost 2 hours)About the basic functions.
+
+
 __Team members are:__  
 ZhuyuHU(Zoey) - Program manager,  
 ![Zoey.jpg](https://github.com/fairybamboo/healthy-spine/blob/main/Member%20Introduction/Zoey.jpg)  
