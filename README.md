@@ -6,7 +6,7 @@ __Work Progress:__
 ![GanttChart%20(2).png](https://github.com/fairybamboo/healthy-spine/blob/main/Gantt%20Chart/GanttChart%20(2).png)  
 
 __Requirement Analysis:__  
-https://github.com/fairybamboo/healthy-spine/blob/main/news/week6/RA_HealthySpine_4.22.docx    
+https://github.com/fairybamboo/healthy-spine/blob/main/news/week8/RA_HealthySpine_4.27(2)(1).docx    
 ![usecase.png](https://github.com/fairybamboo/healthy-spine/blob/main/news/week6/usecase.png)  
 __Flow Chart:__  
 https://github.com/fairybamboo/healthy-spine/blob/main/news/week7/SA1-9.docx  
