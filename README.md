@@ -12,7 +12,7 @@ __Flow Chart:__
 https://github.com/fairybamboo/healthy-spine/blob/main/news/week8/SA1-9.docx    
 __Sequence Diagram:__  
 ![sd1.png](https://github.com/fairybamboo/healthy-spine/blob/main/news/week8/sd1.png)  
-![sd3.png](https://github.com/fairybamboo/healthy-spine/blob/main/news/week8/sd3.png) 
+![sd3.png](https://github.com/fairybamboo/healthy-spine/blob/main/news/week8/sd3.png)  
 __News:__  
 Week7: 2021/4/25 Have a discussion with Android, Web and Server group.(Almost 2 hours)About the basic functions.
 Week8: 2021/4/26 2021/4/27 Server,DB,Android,WeChat Applet discussed about how to integrate functions.  
