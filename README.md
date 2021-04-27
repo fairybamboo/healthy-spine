@@ -7,7 +7,7 @@ __Work Progress:__
 
 __Requirement Analysis:__  
 https://github.com/fairybamboo/healthy-spine/blob/main/news/week8/RA_HealthySpine_4.27(2)(1).docx    
-![usecase.png](https://github.com/fairybamboo/healthy-spine/blob/main/news/week6/usecase.png)  
+![USECASE%20(2).png](https://github.com/fairybamboo/healthy-spine/blob/main/news/week8/USECASE%20(2).png)  
 __Flow Chart:__  
 https://github.com/fairybamboo/healthy-spine/blob/main/news/week7/SA1-9.docx  
 __News:__  
