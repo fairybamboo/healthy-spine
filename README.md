@@ -9,7 +9,7 @@ __Requirement Analysis:__
 https://github.com/fairybamboo/healthy-spine/blob/main/news/week8/RA_HealthySpine_4.27(2)(1).docx    
 ![USECASE%20(2).png](https://github.com/fairybamboo/healthy-spine/blob/main/news/week8/USECASE%20(2).png)  
 __Flow Chart:__  
-https://github.com/fairybamboo/healthy-spine/blob/main/news/week7/SA1-9.docx  
+https://github.com/fairybamboo/healthy-spine/blob/main/news/week8/SA1-9.docx    
 __Sequence Diagram:__  
 ![sd1.png](https://github.com/fairybamboo/healthy-spine/blob/main/news/week8/sd1.png)  
 ![sd3.png](https://github.com/fairybamboo/healthy-spine/blob/main/news/week8/sd3.png) 
