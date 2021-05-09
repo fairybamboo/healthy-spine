@@ -1,0 +1,21 @@
+--- Use cases
+
+http://www.cse.msu.edu/~cse870/Lectures/Notes/03b-use-cases-notes.pdf
+http://www.agilemodeling.com/style/useCaseDiagram.htm
+
+--- UML diagrams
+
+https://youtu.be/WnMQ8HlmeXc
+
+--- WeChat applet tutorials
+
+https://youtu.be/cOm9XKga7l0
+
+--- WeChat official documentation
+
+Official Accounts Platform
+https://mp.weixin.qq.com/?lang=en_US
+
+https://developers.weixin.qq.com/miniprogram/en/dev/framework/
+
+------
