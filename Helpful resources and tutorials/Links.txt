@@ -10,6 +10,8 @@ https://youtu.be/WnMQ8HlmeXc
 --- WeChat applet tutorials
 
 https://youtu.be/cOm9XKga7l0
+https://www.appinchina.co/services/wechat-miniprograms/
+https://developpaper.com/rapid-development-of-wechat-applets-from-account-registration-to-applets-on-the-shelf/
 
 --- WeChat official documentation
 
